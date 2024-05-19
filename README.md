@@ -6,5 +6,6 @@ Project for the problem statement:
 
 1. Used MySQL, NodeJS and ExpressJS for backend and ReactJS for frontend.
 2. CRUD functionalities to view/create/delete tables and view/create/update/delete entries in table.
-3. User clicks buttons and request to sent via axios.
+3. User clicks buttons and request is sent via axios.
 4. GET, POST, PUT and DELETE methods to create SQL queries and required data is sent back to frontend handle functions.
+5. Data is stored on local machine (workbench).
